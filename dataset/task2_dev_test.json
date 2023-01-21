@@ -1,0 +1,1050 @@
+[
+    {
+        "id": 7061,
+        "text": "محظوظو #كورونا.. بروز 9 مليارديرات جدد بفضل تجارة اللقاح",
+        "labels": [
+            {
+                "start": 0,
+                "end": 14,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "محظوظو #كورونا"
+            },
+            {
+                "start": 17,
+                "end": 56,
+                "technique": "Causal Oversimplification",
+                "text_fragment": "بروز 9 مليارديرات جدد بفضل تجارة اللقاح"
+            }
+        ]
+    },
+    {
+        "id": 7068,
+        "text": "رغم إجراء الانتخاب على أراضيها ... باريس: انتخابات النظام الرئاسية \"باطلة وغير شرعية\"",
+        "labels": [
+            {
+                "start": 68,
+                "end": 84,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "باطلة وغير شرعية"
+            },
+            {
+                "start": 68,
+                "end": 84,
+                "technique": "Loaded Language",
+                "text_fragment": "باطلة وغير شرعية"
+            },
+            {
+                "start": 68,
+                "end": 84,
+                "technique": "Repetition",
+                "text_fragment": "باطلة وغير شرعية"
+            },
+            {
+                "start": 0,
+                "end": 85,
+                "technique": "Whataboutism",
+                "text_fragment": "رغم إجراء الانتخاب على أراضيها ... باريس: انتخابات النظام الرئاسية \"باطلة وغير شرعية\""
+            }
+        ]
+    },
+    {
+        "id": 7115,
+        "text": "وزير الخارجية المصري سامح شكري يؤكد موقف #مصر الداعم للقضية الفلسطينية وأهمية العمل لإحياء مسار تفاوضي جاد وبنّاء “لتحقيق السلام الشامل والعادل”",
+        "labels": [
+            {
+                "start": 115,
+                "end": 143,
+                "technique": "Thought-terminating cliché",
+                "text_fragment": "لتحقيق السلام الشامل والعادل"
+            },
+            {
+                "start": 85,
+                "end": 95,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "إحياء مسار"
+            },
+            {
+                "start": 122,
+                "end": 143,
+                "technique": "Loaded Language",
+                "text_fragment": "السلام الشامل والعادل"
+            }
+        ]
+    },
+    {
+        "id": 7402,
+        "text": "مقتل مواطن وإصابة آخر على يد مرتزقة «فاغنر» في #سرت #عين_ليبيا",
+        "labels": [
+            {
+                "start": 0,
+                "end": 4,
+                "technique": "Loaded Language",
+                "text_fragment": "مقتل"
+            },
+            {
+                "start": 29,
+                "end": 35,
+                "technique": "Loaded Language",
+                "text_fragment": "مرتزقة"
+            },
+            {
+                "start": 29,
+                "end": 43,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "مرتزقة «فاغنر»"
+            }
+        ]
+    },
+    {
+        "id": 7403,
+        "text": "متحف اللوفر الفرنسي يعرض تماثيل نصفية سرقت من #ليبيا http://ahrr.in/7tf",
+        "labels": [
+            {
+                "start": 0,
+                "end": 52,
+                "technique": "Smears",
+                "text_fragment": "متحف اللوفر الفرنسي يعرض تماثيل نصفية سرقت من #ليبيا"
+            }
+        ]
+    },
+    {
+        "id": 7404,
+        "text": "أعيان وحكماء #الزنتان يرفض استجلاب الاحتلال من قِبل «شيوخ العار» #عين_ليبيا",
+        "labels": [
+            {
+                "start": 53,
+                "end": 63,
+                "technique": "Smears",
+                "text_fragment": "شيوخ العار"
+            },
+            {
+                "start": 53,
+                "end": 63,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "شيوخ العار"
+            }
+        ]
+    },
+    {
+        "id": 7405,
+        "text": "#الكشافة_الإسلامية_الجزائرية: شعلة لتفجير الثورة التحريرية ونبراس لبعث الروح الوطنية ",
+        "labels": [
+            {
+                "start": 30,
+                "end": 48,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "شعلة لتفجير الثورة"
+            },
+            {
+                "start": 1,
+                "end": 84,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "الكشافة_الإسلامية_الجزائرية: شعلة لتفجير الثورة التحريرية ونبراس لبعث الروح الوطنية"
+            },
+            {
+                "start": 36,
+                "end": 58,
+                "technique": "Loaded Language",
+                "text_fragment": "تفجير الثورة التحريرية"
+            },
+            {
+                "start": 42,
+                "end": 58,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "الثورة التحريرية"
+            },
+            {
+                "start": 60,
+                "end": 76,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "نبراس لبعث الروح"
+            },
+            {
+                "start": 1,
+                "end": 84,
+                "technique": "Flag-waving",
+                "text_fragment": "الكشافة_الإسلامية_الجزائرية: شعلة لتفجير الثورة التحريرية ونبراس لبعث الروح الوطنية"
+            }
+        ]
+    },
+    {
+        "id": 7406,
+        "text": "#عاجل | دبلوماسيون لوكالة الأناضول: واشنطن تُعرقل للمرة الثانية صدور بيان من مجلس الأمن حول القدس وغزة #عين_ليبيا",
+        "labels": [
+            {
+                "start": 36,
+                "end": 102,
+                "technique": "Smears",
+                "text_fragment": "واشنطن تُعرقل للمرة الثانية صدور بيان من مجلس الأمن حول القدس وغزة"
+            },
+            {
+                "start": 43,
+                "end": 49,
+                "technique": "Loaded Language",
+                "text_fragment": "تُعرقل"
+            }
+        ]
+    },
+    {
+        "id": 7407,
+        "text": "أبناء حفتر \"عقداء\" وأبناء أنصاره \"قتلى أو جرحى أو أسرى\" !!!",
+        "labels": [
+            {
+                "start": 0,
+                "end": 55,
+                "technique": "Smears",
+                "text_fragment": "أبناء حفتر \"عقداء\" وأبناء أنصاره \"قتلى أو جرحى أو أسرى\""
+            },
+            {
+                "start": 0,
+                "end": 55,
+                "technique": "Black-and-white Fallacy/Dictatorship",
+                "text_fragment": "أبناء حفتر \"عقداء\" وأبناء أنصاره \"قتلى أو جرحى أو أسرى\""
+            },
+            {
+                "start": 34,
+                "end": 54,
+                "technique": "Loaded Language",
+                "text_fragment": "قتلى أو جرحى أو أسرى"
+            },
+            {
+                "start": 20,
+                "end": 55,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "أبناء أنصاره \"قتلى أو جرحى أو أسرى\""
+            }
+        ]
+    },
+    {
+        "id": 7408,
+        "text": "قتلى وجرحى في تفجيرين انتحاريبن وسط العاصمة تونس",
+        "labels": [
+            {
+                "start": 0,
+                "end": 10,
+                "technique": "Loaded Language",
+                "text_fragment": "قتلى وجرحى"
+            },
+            {
+                "start": 14,
+                "end": 31,
+                "technique": "Loaded Language",
+                "text_fragment": "تفجيرين انتحاريبن"
+            },
+            {
+                "start": 22,
+                "end": 31,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "انتحاريبن"
+            }
+        ]
+    },
+    {
+        "id": 7409,
+        "text": "#التطبيع_خيانة #المغرب يجني أولى ثمار التطبيع  نشطاء سياسيون يستهجنون اساءة ممثل الكيان الصهيوني في المغرب لرئيس الحكومة المغربي سعد الدين العثماني  بسبب تهنأته للفصائل الفلسطينية",
+        "labels": [
+            {
+                "start": 1,
+                "end": 14,
+                "technique": "Loaded Language",
+                "text_fragment": "التطبيع_خيانة"
+            },
+            {
+                "start": 1,
+                "end": 14,
+                "technique": "Slogans",
+                "text_fragment": "التطبيع_خيانة"
+            },
+            {
+                "start": 1,
+                "end": 179,
+                "technique": "Smears",
+                "text_fragment": "التطبيع_خيانة #المغرب يجني أولى ثمار التطبيع  نشطاء سياسيون يستهجنون اساءة ممثل الكيان الصهيوني في المغرب لرئيس الحكومة المغربي سعد الدين العثماني  بسبب تهنأته للفصائل الفلسطينية"
+            },
+            {
+                "start": 61,
+                "end": 69,
+                "technique": "Loaded Language",
+                "text_fragment": "يستهجنون"
+            },
+            {
+                "start": 81,
+                "end": 96,
+                "technique": "Loaded Language",
+                "text_fragment": "الكيان الصهيوني"
+            },
+            {
+                "start": 81,
+                "end": 96,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "الكيان الصهيوني"
+            }
+        ]
+    },
+    {
+        "id": 7410,
+        "text": "تهديد أمريكي بفرض عقوبات على معرقلي الانتخابات الليبية #عين_ليبيا",
+        "labels": [
+            {
+                "start": 0,
+                "end": 5,
+                "technique": "Loaded Language",
+                "text_fragment": "تهديد"
+            },
+            {
+                "start": 0,
+                "end": 12,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "تهديد أمريكي"
+            },
+            {
+                "start": 0,
+                "end": 54,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "تهديد أمريكي بفرض عقوبات على معرقلي الانتخابات الليبية"
+            },
+            {
+                "start": 29,
+                "end": 54,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "معرقلي الانتخابات الليبية"
+            }
+        ]
+    },
+    {
+        "id": 7411,
+        "text": "التمويل العسكري لـ “البوليساريو” من قبل الجزائر.. نائب برلماني أوروبي يفضح المستور",
+        "labels": [
+            {
+                "start": 50,
+                "end": 82,
+                "technique": "Appeal to authority",
+                "text_fragment": "نائب برلماني أوروبي يفضح المستور"
+            },
+            {
+                "start": 70,
+                "end": 82,
+                "technique": "Obfuscation, Intentional vagueness, Confusion",
+                "text_fragment": "يفضح المستور"
+            }
+        ]
+    },
+    {
+        "id": 7412,
+        "text": "عناصر الشرطة بسيدي موسى بـ #سلا، توقف المشرف على الصفحة الفيسبوكية غير الرسمية التي تنشر صور الملك محمد السادس والعائلة الملكية، #سفيان_البحري، أمام أحد المطاعم بالميناء الترفيهي بـ #مارينا #أبي_رقراق وهو في حالة عربدة وسكر طافح، حيث أحدث فوضى بالمكان",
+        "labels": [
+            {
+                "start": 33,
+                "end": 228,
+                "technique": "Smears",
+                "text_fragment": "توقف المشرف على الصفحة الفيسبوكية غير الرسمية التي تنشر صور الملك محمد السادس والعائلة الملكية، #سفيان_البحري، أمام أحد المطاعم بالميناء الترفيهي بـ #مارينا #أبي_رقراق وهو في حالة عربدة وسكر طافح"
+            },
+            {
+                "start": 49,
+                "end": 78,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "الصفحة الفيسبوكية غير الرسمية"
+            },
+            {
+                "start": 213,
+                "end": 228,
+                "technique": "Loaded Language",
+                "text_fragment": "عربدة وسكر طافح"
+            },
+            {
+                "start": 213,
+                "end": 228,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "عربدة وسكر طافح"
+            }
+        ]
+    },
+    {
+        "id": 7413,
+        "text": "اللجوء الى اخراج المدعو ابراهيم غالي من إسبانيا بنفس الطريقة التي تم إدخاله إليها لن يزيد الأزمة الا تفاقما (سفيرة المغرب بمدريد)",
+        "labels": [
+            {
+                "start": 17,
+                "end": 23,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "المدعو"
+            },
+            {
+                "start": 17,
+                "end": 23,
+                "technique": "Smears",
+                "text_fragment": "المدعو"
+            },
+            {
+                "start": 101,
+                "end": 107,
+                "technique": "Loaded Language",
+                "text_fragment": "تفاقما"
+            }
+        ]
+    },
+    {
+        "id": 7414,
+        "text": "عاجل | بنسودا: فريق المحكمة زار مواقع المقابر الجماعية في ترهونة. بنسودا: تلقينا تقارير عن سجون معيتيقة وقرنادة الذي يخضع لقوات حفتر ويشهد انتهاكات. بنسودا: تقارير عن إصدار محاكم عسكرية تابعة لحفتر أحكاما بالإعدام والمؤبد والسجن لفترات طويلة بحق مدنيين",
+        "labels": [
+            {
+                "start": 38,
+                "end": 54,
+                "technique": "Loaded Language",
+                "text_fragment": "المقابر الجماعية"
+            },
+            {
+                "start": 81,
+                "end": 147,
+                "technique": "Smears",
+                "text_fragment": "تقارير عن سجون معيتيقة وقرنادة الذي يخضع لقوات حفتر ويشهد انتهاكات"
+            },
+            {
+                "start": 173,
+                "end": 185,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "محاكم عسكرية"
+            }
+        ]
+    },
+    {
+        "id": 7415,
+        "text": "#قوجيل يدعو المجموعة الدولية إلى احترام واجبها \"الأخلاقي والسياسي\" تجاه #فلسطين و #الصحراء_الغربية",
+        "labels": [
+            {
+                "start": 1,
+                "end": 98,
+                "technique": "Smears",
+                "text_fragment": "قوجيل يدعو المجموعة الدولية إلى احترام واجبها \"الأخلاقي والسياسي\" تجاه #فلسطين و #الصحراء_الغربية"
+            },
+            {
+                "start": 40,
+                "end": 66,
+                "technique": "Loaded Language",
+                "text_fragment": "واجبها \"الأخلاقي والسياسي\""
+            }
+        ]
+    },
+    {
+        "id": 7416,
+        "text": "شاهد | في ظل الانفلات الأمني الذي يشهده الجنوب في مناطق سيطرة مليشيات حفتر والمرتزقة الموالية لها،  قبيلة الحساونة في بيان لها تدعو أبناءها للانسحاب من مليشيات حفتر وتتوعد بقتال حفتر. للمشاهدة...",
+        "labels": [
+            {
+                "start": 7,
+                "end": 182,
+                "technique": "Smears",
+                "text_fragment": "في ظل الانفلات الأمني الذي يشهده الجنوب في مناطق سيطرة مليشيات حفتر والمرتزقة الموالية لها،  قبيلة الحساونة في بيان لها تدعو أبناءها للانسحاب من مليشيات حفتر وتتوعد بقتال حفتر"
+            },
+            {
+                "start": 13,
+                "end": 28,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "الانفلات الأمني"
+            },
+            {
+                "start": 62,
+                "end": 69,
+                "technique": "Loaded Language",
+                "text_fragment": "مليشيات"
+            },
+            {
+                "start": 62,
+                "end": 74,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "مليشيات حفتر"
+            },
+            {
+                "start": 76,
+                "end": 84,
+                "technique": "Loaded Language",
+                "text_fragment": "المرتزقة"
+            },
+            {
+                "start": 76,
+                "end": 84,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "المرتزقة"
+            },
+            {
+                "start": 100,
+                "end": 182,
+                "technique": "Black-and-white Fallacy/Dictatorship",
+                "text_fragment": "قبيلة الحساونة في بيان لها تدعو أبناءها للانسحاب من مليشيات حفتر وتتوعد بقتال حفتر"
+            },
+            {
+                "start": 152,
+                "end": 159,
+                "technique": "Loaded Language",
+                "text_fragment": "مليشيات"
+            },
+            {
+                "start": 152,
+                "end": 164,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "مليشيات حفتر"
+            },
+            {
+                "start": 166,
+                "end": 177,
+                "technique": "Loaded Language",
+                "text_fragment": "تتوعد بقتال"
+            },
+            {
+                "start": 166,
+                "end": 182,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "تتوعد بقتال حفتر"
+            }
+        ]
+    },
+    {
+        "id": 7417,
+        "text": "هبوط اضطراري لطائرة البُراق في مطار #معيتيقة أثناء رحلتها #بنغازي - #تونس بسبب تعكر الحالة الصحية لأحد المسافرين على متنها.",
+        "labels": []
+    },
+    {
+        "id": 7418,
+        "text": "وزير الخارجية الموريتاني: العلاقات \"الصلبة\" بين موريتانيا والمغرب عرفت قفزة مهمة خلال السنوات الأخيرة",
+        "labels": [
+            {
+                "start": 26,
+                "end": 43,
+                "technique": "Loaded Language",
+                "text_fragment": "العلاقات \"الصلبة\""
+            },
+            {
+                "start": 26,
+                "end": 43,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "العلاقات \"الصلبة\""
+            },
+            {
+                "start": 71,
+                "end": 80,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "قفزة مهمة"
+            },
+            {
+                "start": 71,
+                "end": 80,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "قفزة مهمة"
+            }
+        ]
+    },
+    {
+        "id": 7419,
+        "text": "عضو المجلس الرئاسي عبدالله اللافي: الدفع باتجاه تحقيق مصالحة وطنية شاملة بين كل أبناء #ليبيا هو من أهم أهداف المرحلة الحالية.",
+        "labels": [
+            {
+                "start": 48,
+                "end": 92,
+                "technique": "Flag-waving",
+                "text_fragment": "تحقيق مصالحة وطنية شاملة بين كل أبناء #ليبيا"
+            },
+            {
+                "start": 61,
+                "end": 92,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "وطنية شاملة بين كل أبناء #ليبيا"
+            }
+        ]
+    },
+    {
+        "id": 7420,
+        "text": "#تونس.. مصرع إرهابيين وإصابة 6 آخرين في تفجير انتحاري بمحيط السفارة الأمريكية",
+        "labels": [
+            {
+                "start": 8,
+                "end": 21,
+                "technique": "Loaded Language",
+                "text_fragment": "مصرع إرهابيين"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "إرهابيين"
+            },
+            {
+                "start": 40,
+                "end": 53,
+                "technique": "Loaded Language",
+                "text_fragment": "تفجير انتحاري"
+            },
+            {
+                "start": 46,
+                "end": 53,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "انتحاري"
+            }
+        ]
+    },
+    {
+        "id": 7421,
+        "text": "147 ضحية غرق على مستوى #الشواطئء و #المجمعات_المائية خلال #موسم_الاصطياف الماضيhttps://aps.dz/ar/societe/107118-147",
+        "labels": [
+            {
+                "start": 4,
+                "end": 8,
+                "technique": "Loaded Language",
+                "text_fragment": "ضحية"
+            }
+        ]
+    },
+    {
+        "id": 7422,
+        "text": "وزير الاقتصاد والصناعة بحكومة الوفاق «علي العيساوي»: لدينا 14 ألف مشروع متوقف منذ عام 2011 تبلغ قيمتها 140 مليار دولار.",
+        "labels": []
+    },
+    {
+        "id": 7869,
+        "text": "#عين_اليمن معمر الأرياني \" وزير برتبة مزور موهلاته تغريدات ومنصبه ثلاث وزارات وكل من ينتقده ( بلوك) https://t.co/pfGkLC1dh0",
+        "labels": [
+            {
+                "start": 11,
+                "end": 99,
+                "technique": "Smears",
+                "text_fragment": "معمر الأرياني \" وزير برتبة مزور موهلاته تغريدات ومنصبه ثلاث وزارات وكل من ينتقده ( بلوك)"
+            },
+            {
+                "start": 27,
+                "end": 50,
+                "technique": "Doubt",
+                "text_fragment": "وزير برتبة مزور موهلاته"
+            },
+            {
+                "start": 43,
+                "end": 58,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "موهلاته تغريدات"
+            }
+        ]
+    },
+    {
+        "id": 7870,
+        "text": "بالفيديو: مشكلة #الكهرباء من أكبر هموم وكوابيس المواطن... هل من حلول حقيقية؟ تقرير من #السومرية تشاهدونه في الرابط التالي #العراق #اقتصاد #سياسة https://t.co/5cG8EnQN1n",
+        "labels": []
+    },
+    {
+        "id": 7871,
+        "text": "صورة لافتة لماكرون... فكيف علّق اللبنانيون؟ https://t.co/FO424OHgTB",
+        "labels": []
+    },
+    {
+        "id": 7872,
+        "text": "▶️ عيد ديني يتحول إلى مأساة في إسرائيل، ما الذي حدث؟ https://t.co/eAyQJ3ado3 https://t.co/j1EiLYkrNm",
+        "labels": [
+            {
+                "start": 3,
+                "end": 11,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "عيد ديني"
+            },
+            {
+                "start": 22,
+                "end": 27,
+                "technique": "Loaded Language",
+                "text_fragment": "مأساة"
+            }
+        ]
+    },
+    {
+        "id": 7873,
+        "text": "كذبة نيسان: جيل بايدن تتنكر كمضيفة طيران وتوزع مثلجات على ركاب طائرة #عين_ليبيا https://t.co/Btf0sF6pCf",
+        "labels": []
+    },
+    {
+        "id": 7874,
+        "text": "مدير مكتب الرئيس الإيراني: عنف نظام الفصل العنصري في الكيان الإسرائيلي ضد الفلسطينيين دليل فشل المنظمات الدولية",
+        "labels": [
+            {
+                "start": 27,
+                "end": 111,
+                "technique": "Smears",
+                "text_fragment": "عنف نظام الفصل العنصري في الكيان الإسرائيلي ضد الفلسطينيين دليل فشل المنظمات الدولية"
+            },
+            {
+                "start": 31,
+                "end": 49,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "نظام الفصل العنصري"
+            },
+            {
+                "start": 36,
+                "end": 49,
+                "technique": "Loaded Language",
+                "text_fragment": "الفصل العنصري"
+            }
+        ]
+    },
+    {
+        "id": 7875,
+        "text": "ذكرى رحيل ملك الكوميديا الفنان #اسماعيل_يس.. اليوم https://t.co/dWeW5QiAO1 https://t.co/x5ZULK2ol9",
+        "labels": [
+            {
+                "start": 10,
+                "end": 23,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "ملك الكوميديا"
+            }
+        ]
+    },
+    {
+        "id": 7876,
+        "text": "\"خيبة أمل جديدة\" للوبي داعم لحيازة السلاح في الولايات المتحدة https://t.co/Y3r2IPrbMe",
+        "labels": [
+            {
+                "start": 1,
+                "end": 9,
+                "technique": "Loaded Language",
+                "text_fragment": "خيبة أمل"
+            }
+        ]
+    },
+    {
+        "id": 7877,
+        "text": "#عاجل.. #وزارة_الخارجية تندد وتستنكر بشدة ما تضمنته تصريحات وزير الخارجية اللبناني من إساءات مشينة تجاه #المملكة وشعبها ودول مجلس التعاون. https://t.co/iUMuhttzdh",
+        "labels": [
+            {
+                "start": 24,
+                "end": 41,
+                "technique": "Loaded Language",
+                "text_fragment": "تندد وتستنكر بشدة"
+            },
+            {
+                "start": 86,
+                "end": 98,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "إساءات مشينة"
+            },
+            {
+                "start": 86,
+                "end": 98,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "إساءات مشينة"
+            }
+        ]
+    },
+    {
+        "id": 7878,
+        "text": "البنك الدولي وصف حال #لبنان بـ\"أعمق أزمة في تاريخه الحديث\".. اقتتال في المتاجر وطوابير لا آخر لها على محطات البنزين #العربية https://t.co/cK8VXD4yOW",
+        "labels": [
+            {
+                "start": 31,
+                "end": 40,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "أعمق أزمة"
+            },
+            {
+                "start": 61,
+                "end": 67,
+                "technique": "Loaded Language",
+                "text_fragment": "اقتتال"
+            },
+            {
+                "start": 87,
+                "end": 97,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "لا آخر لها"
+            }
+        ]
+    },
+    {
+        "id": 7879,
+        "text": "رئيس الوزراء: صحة المواطنين هي أولويتنا رئيس الوزراء: نأمل بالوصول إلى صيف آمن #عاجل #الأردن #رؤيا_الاخباري https://t.co/0OwmeMDK3O",
+        "labels": [
+            {
+                "start": 71,
+                "end": 78,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "صيف آمن"
+            }
+        ]
+    },
+    {
+        "id": 7880,
+        "text": "\"يما خليكي معي ما تسيبيني\" شاب ينادي أمه من تحت الركام بعد قصف طيران الاحتلال لمنزلهم بحي الرمال بغزة. https://t.co/ePHguPGHkH",
+        "labels": [
+            {
+                "start": 0,
+                "end": 101,
+                "technique": "Loaded Language",
+                "text_fragment": "\"يما خليكي معي ما تسيبيني\" شاب ينادي أمه من تحت الركام بعد قصف طيران الاحتلال لمنزلهم بحي الرمال بغزة"
+            },
+            {
+                "start": 63,
+                "end": 77,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "طيران الاحتلال"
+            }
+        ]
+    },
+    {
+        "id": 7881,
+        "text": "الأردن يَقْسِمُ 24 ساعة يوميًا بينه وبين السكان لمواجهة الوباء القاتل #صحيفة_الراي https://t.co/KfWnjS4xCJ",
+        "labels": [
+            {
+                "start": 56,
+                "end": 69,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "الوباء القاتل"
+            },
+            {
+                "start": 56,
+                "end": 69,
+                "technique": "Loaded Language",
+                "text_fragment": "الوباء القاتل"
+            }
+        ]
+    },
+    {
+        "id": 7882,
+        "text": "#الوصال| المدرب والمحلل الرياضي عبدالعزيز الحبسي: إلغاء الدوري كان صادما والقوي هو الذي يستمر وإلغاء الدوري استسلام. لـ #فوانيس_الوصال مع الدكتور المعتصم المعمري @mutasem_mamari https://t.co/N6YtfOQ44l",
+        "labels": []
+    },
+    {
+        "id": 7883,
+        "text": "مسؤولة أممية زارت #غزة : تحدثت إلى الأسر هنا وقالوا جميعا إنه لم يعد لديهم أي أمل، يشعرون أنهم عاجزون ولا يتحكمون في حياتهم https://t.co/laGjWyUYyT #العربية",
+        "labels": [
+            {
+                "start": 62,
+                "end": 123,
+                "technique": "Loaded Language",
+                "text_fragment": "لم يعد لديهم أي أمل، يشعرون أنهم عاجزون ولا يتحكمون في حياتهم"
+            }
+        ]
+    },
+    {
+        "id": 7884,
+        "text": "#الوصال| الدكتور أحمد المنظري المدير الإقليمي لـ #منظمة_الصحة_العالمية للشرق المتوسط يتحدث عن أزمة #كورونا لـ #فوانيس_الوصال مع الدكتور المعتصم المعمري @mutasem_mamari https://t.co/QE24LV497X",
+        "labels": []
+    },
+    {
+        "id": 7885,
+        "text": "حذار من هذه الأخطاء الغذائية في الصيف.. تسبب \"أضرارًا فادحة\". https://t.co/gRMjOq6fv2 https://t.co/Mq4t7ewdzV",
+        "labels": [
+            {
+                "start": 0,
+                "end": 60,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "حذار من هذه الأخطاء الغذائية في الصيف.. تسبب \"أضرارًا فادحة\""
+            }
+        ]
+    },
+    {
+        "id": 7886,
+        "text": "المخابرات الصينية تستخدم موقعا الكترونيا لتجنيد مسؤولين بريطانيين كجواسيس https://t.co/4ckMTOShEL",
+        "labels": [
+            {
+                "start": 48,
+                "end": 73,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "مسؤولين بريطانيين كجواسيس"
+            }
+        ]
+    },
+    {
+        "id": 7887,
+        "text": "إسلاميون متطرفون يذبحون راعي أغنام في جبل وسط تونس #Bahrain https://t.co/QnYDS8ptg7",
+        "labels": [
+            {
+                "start": 0,
+                "end": 16,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "إسلاميون متطرفون"
+            },
+            {
+                "start": 9,
+                "end": 16,
+                "technique": "Loaded Language",
+                "text_fragment": "متطرفون"
+            },
+            {
+                "start": 17,
+                "end": 23,
+                "technique": "Loaded Language",
+                "text_fragment": "يذبحون"
+            }
+        ]
+    },
+    {
+        "id": 7888,
+        "text": "ولد الطيب: لجنة تسيير الحزب فاقدة للمصداقية https://t.co/NuFmj96eJb",
+        "labels": [
+            {
+                "start": 11,
+                "end": 43,
+                "technique": "Smears",
+                "text_fragment": "لجنة تسيير الحزب فاقدة للمصداقية"
+            }
+        ]
+    },
+    {
+        "id": 7889,
+        "text": "نتنياهو: سنعمل كل ما هو مطلوب لإعادة الهدوء لشوارع إسرائيل",
+        "labels": []
+    },
+    {
+        "id": 7890,
+        "text": "حوار مع الباحثة دنيا الرميلي: ”الانتحار ردّ فعل عنيف على التهميش“ [فيديو] https://t.co/13GdQhG7Ze https://t.co/5NSsNFwe25",
+        "labels": [
+            {
+                "start": 31,
+                "end": 39,
+                "technique": "Loaded Language",
+                "text_fragment": "الانتحار"
+            },
+            {
+                "start": 31,
+                "end": 52,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "الانتحار ردّ فعل عنيف"
+            }
+        ]
+    },
+    {
+        "id": 7891,
+        "text": "المجعي: المرة الوحيدة التي اقتحم فيها أبطالنا فندق كورنثيا عندما سُحِقت خلية «داعش» الإرهابية #عين_ليبيا https://t.co/V8zQtAM8G6",
+        "labels": [
+            {
+                "start": 8,
+                "end": 93,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "المرة الوحيدة التي اقتحم فيها أبطالنا فندق كورنثيا عندما سُحِقت خلية «داعش» الإرهابية"
+            },
+            {
+                "start": 27,
+                "end": 32,
+                "technique": "Loaded Language",
+                "text_fragment": "اقتحم"
+            },
+            {
+                "start": 38,
+                "end": 45,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "أبطالنا"
+            },
+            {
+                "start": 38,
+                "end": 45,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "أبطالنا"
+            },
+            {
+                "start": 65,
+                "end": 71,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "سُحِقت"
+            },
+            {
+                "start": 72,
+                "end": 93,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "خلية «داعش» الإرهابية"
+            },
+            {
+                "start": 84,
+                "end": 93,
+                "technique": "Loaded Language",
+                "text_fragment": "الإرهابية"
+            }
+        ]
+    },
+    {
+        "id": 7892,
+        "text": "عاجل | الناطق باسم العدالة والتنمية التركي: من يسمي العدوان حق «إسرائيل» في الدفاع عن النفس متعاون مع قتلة الأطفال https://t.co/wAIS3ZGyCm",
+        "labels": [
+            {
+                "start": 44,
+                "end": 114,
+                "technique": "Smears",
+                "text_fragment": "من يسمي العدوان حق «إسرائيل» في الدفاع عن النفس متعاون مع قتلة الأطفال"
+            },
+            {
+                "start": 52,
+                "end": 59,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "العدوان"
+            },
+            {
+                "start": 52,
+                "end": 59,
+                "technique": "Loaded Language",
+                "text_fragment": "العدوان"
+            },
+            {
+                "start": 60,
+                "end": 91,
+                "technique": "Loaded Language",
+                "text_fragment": "حق «إسرائيل» في الدفاع عن النفس"
+            },
+            {
+                "start": 102,
+                "end": 114,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "قتلة الأطفال"
+            },
+            {
+                "start": 102,
+                "end": 114,
+                "technique": "Loaded Language",
+                "text_fragment": "قتلة الأطفال"
+            }
+        ]
+    },
+    {
+        "id": 7893,
+        "text": "\"صفعة\" تدفع سفير بلجيكا في كوريا الجنوبية لترك منصبه (فيديو) https://t.co/DyJChaz34g",
+        "labels": [
+            {
+                "start": 0,
+                "end": 6,
+                "technique": "Loaded Language",
+                "text_fragment": "\"صفعة\""
+            }
+        ]
+    },
+    {
+        "id": 7894,
+        "text": "خروج مجموعة صغيرة من زواحف النظام البائد وسط #الخرطوم يقودهم فلول الأمن الشعبي المحلول، مطالبين برحيل حكومة الثورة الانتقالية. #السودان #سيصرخون https://t.co/CBpjWNUSDw",
+        "labels": [
+            {
+                "start": 21,
+                "end": 40,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "زواحف النظام البائد"
+            },
+            {
+                "start": 102,
+                "end": 125,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "حكومة الثورة الانتقالية"
+            }
+        ]
+    },    
+    {
+        "id": 7896,
+        "text": "#عين_اليمن معمر الأرياني \" وزير برتبة مزور موهلاته تغريدات ومنصبه ثلاث وزارات وكل من ينتقده ( بلوك) https://t.co/pfGkLC1dh0",
+        "labels": [
+            {
+                "start": 11,
+                "end": 99,
+                "technique": "Smears",
+                "text_fragment": "معمر الأرياني \" وزير برتبة مزور موهلاته تغريدات ومنصبه ثلاث وزارات وكل من ينتقده ( بلوك)"
+            },
+            {
+                "start": 27,
+                "end": 50,
+                "technique": "Doubt",
+                "text_fragment": "وزير برتبة مزور موهلاته"
+            },
+            {
+                "start": 43,
+                "end": 58,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "موهلاته تغريدات"
+            }
+        ]
+    }
+]
