@@ -1,0 +1,1183 @@
+[
+    {
+        "id": 7037,
+        "text": "الصحفي المتخصص في شؤون الجماعات المتطرفة ماهر فرغلي: #تركيا تدعم الفصائل المسلحة في #سوريا بدون حدود.. وعلى العالم مواجهة هذه الممارسات #العربية",
+        "labels": [
+            {
+                "start": 0,
+                "end": 100,
+                "technique": "Appeal to authority",
+                "text_fragment": "الصحفي المتخصص في شؤون الجماعات المتطرفة ماهر فرغلي: #تركيا تدعم الفصائل المسلحة في #سوريا بدون حدود"
+            },
+            {
+                "start": 23,
+                "end": 40,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "الجماعات المتطرفة"
+            },
+            {
+                "start": 32,
+                "end": 40,
+                "technique": "Loaded Language",
+                "text_fragment": "المتطرفة"
+            },
+            {
+                "start": 91,
+                "end": 100,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "بدون حدود"
+            },
+            {
+                "start": 103,
+                "end": 135,
+                "technique": "Black-and-white Fallacy/Dictatorship",
+                "text_fragment": "وعلى العالم مواجهة هذه الممارسات"
+            }
+        ]
+    },
+    {
+        "id": 7049,
+        "text": "#فوق_السلطة - الإمارات تهنىء إيران برمضان وإسرائيل بالنكبة",
+        "labels": [
+            {
+                "start": 14,
+                "end": 58,
+                "technique": "Smears",
+                "text_fragment": "الإمارات تهنىء إيران برمضان وإسرائيل بالنكبة"
+            },
+            {
+                "start": 14,
+                "end": 58,
+                "technique": "Whataboutism",
+                "text_fragment": "الإمارات تهنىء إيران برمضان وإسرائيل بالنكبة"
+            },
+            {
+                "start": 52,
+                "end": 58,
+                "technique": "Loaded Language",
+                "text_fragment": "النكبة"
+            }
+        ]
+    },
+    {
+        "id": 7352,
+        "text": "صور | إدارة خدمات الطوارئ بشركة الخدمات العامة تواصل إزالة المباني العشوائية المخالفة بمناطق مختلفة من #طرابلس #ليبيا",
+        "labels": [
+            {
+                "start": 59,
+                "end": 85,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "المباني العشوائية المخالفة"
+            }
+        ]
+    },
+    {
+        "id": 7353,
+        "text": "#مالي: الإفراج عن رئيسي المرحلة الانتقالية والحكومة",
+        "labels": []
+    },
+    {
+        "id": 7354,
+        "text": "أول دولة أوروبية تُصنف الاستيطان الإسرائيلي كاحتلال #عين_ليبيا",
+        "labels": [
+            {
+                "start": 23,
+                "end": 43,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "الاستيطان الإسرائيلي"
+            },
+            {
+                "start": 0,
+                "end": 51,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "أول دولة أوروبية تُصنف الاستيطان الإسرائيلي كاحتلال"
+            }
+        ]
+    },
+    {
+        "id": 7355,
+        "text": "#الفريق_شنقريحة يؤكد \"حرص\" #الجيش_الوطني_الشعبي على مواصلة أداء مهامه الدستورية النبيلة",
+        "labels": [
+            {
+                "start": 1,
+                "end": 87,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "الفريق_شنقريحة يؤكد \"حرص\" #الجيش_الوطني_الشعبي على مواصلة أداء مهامه الدستورية النبيلة"
+            },
+            {
+                "start": 1,
+                "end": 87,
+                "technique": "Flag-waving",
+                "text_fragment": "الفريق_شنقريحة يؤكد \"حرص\" #الجيش_الوطني_الشعبي على مواصلة أداء مهامه الدستورية النبيلة"
+            },
+            {
+                "start": 64,
+                "end": 87,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "مهامه الدستورية النبيلة"
+            },
+            {
+                "start": 1,
+                "end": 87,
+                "technique": "Appeal to authority",
+                "text_fragment": "الفريق_شنقريحة يؤكد \"حرص\" #الجيش_الوطني_الشعبي على مواصلة أداء مهامه الدستورية النبيلة"
+            }
+        ]
+    },
+    {
+        "id": 7356,
+        "text": "المدير التنفيذي لشركة غازبروم الروسية سيرجي تومانوف قال إن الشركة استأنفت إنتاج النفط الخام في #ليبيا بعد توقف دام 10 أشهر بموجب اتفاق مشترك مع وينترشال الألمانية، مضيفًا أنه من المتوقع أن يرتفع الإنتاج الحالي في المشروع من 43 ألف برميل في اليوم إلى 62 ألفًا مع نهاية عام 2021.",
+        "labels": []
+    },
+    {
+        "id": 7357,
+        "text": "السعيدية : فتح بحث قضائي لتحديد المتورطين في محاولة تهريب أربعة أطنان و300 كيلوغرام من مخدر الشيرا عبر المسالك البحرية",
+        "labels": [
+            {
+                "start": 32,
+                "end": 41,
+                "technique": "Loaded Language",
+                "text_fragment": "المتورطين"
+            },
+            {
+                "start": 32,
+                "end": 41,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "المتورطين"
+            },
+            {
+                "start": 52,
+                "end": 57,
+                "technique": "Loaded Language",
+                "text_fragment": "تهريب"
+            }
+        ]
+    },
+    {
+        "id": 7358,
+        "text": "مصادر إسبانية تكشف أن زعيم جبهة البوليساريو الانفصالية وافق على المثول أمام المحكمة العليا الإسبانية، الأسبوع المقبل، وذلك بعدما رفض سابقا تسلم استدعاء المحكمة؛ وطلب مهلة للتشاور مع الجزائر. #المغرب #إسبانيا #الرباط #مدريد #الصحراء_المغربية",
+        "labels": [
+            {
+                "start": 26,
+                "end": 54,
+                "technique": "Name calling/Labeling",
+                "text_fragment": " جبهة البوليساريو الانفصالية"
+            },
+            {
+                "start": 44,
+                "end": 54,
+                "technique": "Loaded Language",
+                "text_fragment": "الانفصالية"
+            }
+        ]
+    },
+    {
+        "id": 7359,
+        "text": "#تونس.. مقتل ستة عناصر من الدرك على يد مجموعة إرهابية على الحدود مع #الجزائر",
+        "labels": [
+            {
+                "start": 8,
+                "end": 12,
+                "technique": "Loaded Language",
+                "text_fragment": "مقتل"
+            },
+            {
+                "start": 39,
+                "end": 53,
+                "technique": "Loaded Language",
+                "text_fragment": "مجموعة إرهابية"
+            },
+            {
+                "start": 46,
+                "end": 53,
+                "technique": "Loaded Language",
+                "text_fragment": "إرهابية"
+            },
+            {
+                "start": 39,
+                "end": 53,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "مجموعة إرهابية"
+            }
+        ]
+    },
+    {
+        "id": 7360,
+        "text": "شاهد | وزير الصحة بحكومة الوحدة الوطنية علي الزناتي: الوضع الوبائي مستقر في أرجاء #ليبيا ولا توجد منطقة وبائية معينة أكثر من غيرها #طرابلس",
+        "labels": [
+            {
+                "start": 7,
+                "end": 138,
+                "technique": "Appeal to authority",
+                "text_fragment": "وزير الصحة بحكومة الوحدة الوطنية علي الزناتي: الوضع الوبائي مستقر في أرجاء #ليبيا ولا توجد منطقة وبائية معينة أكثر من غيرها #طرابلس"
+            },
+            {
+                "start": 98,
+                "end": 110,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "منطقة وبائية"
+            }
+        ]
+    },
+    {
+        "id": 7361,
+        "text": "الصحراء المغربية.. أي تصريح من قبل عضو في الحكومة لا يتوافق مع الموقف الرسمي لإسبانيا \"ما هو إلا مجرد رأي شخصي\" (وزيرة الدفاع)",
+        "labels": [
+            {
+                "start": 18,
+                "end": 111,
+                "technique": "Smears",
+                "text_fragment": " أي تصريح من قبل عضو في الحكومة لا يتوافق مع الموقف الرسمي لإسبانيا \"ما هو إلا مجرد رأي شخصي\""
+            }
+        ]
+    },
+    {
+        "id": 7362,
+        "text": "شاهد | برتبة عقيد، صدام ابن آمر المليشيات خليفة حفتر يكرم أفرادا من تنظيم المداخلة الإرهابي..",
+        "labels": [
+            {
+                "start": 7,
+                "end": 93,
+                "technique": "Smears",
+                "text_fragment": "برتبة عقيد، صدام ابن آمر المليشيات خليفة حفتر يكرم أفرادا من تنظيم المداخلة الإرهابي.."
+            },
+            {
+                "start": 67,
+                "end": 93,
+                "technique": "Loaded Language",
+                "text_fragment": " تنظيم المداخلة الإرهابي.."
+            },
+            {
+                "start": 68,
+                "end": 91,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "تنظيم المداخلة الإرهابي"
+            },
+            {
+                "start": 24,
+                "end": 52,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "ابن آمر المليشيات خليفة حفتر"
+            }
+        ]
+    },
+    {
+        "id": 7363,
+        "text": "إفريقيا.. من #منظمة #الوحدة إلى #الاتحاد",
+        "labels": [
+            {
+                "start": 0,
+                "end": 40,
+                "technique": "Slogans",
+                "text_fragment": "إفريقيا.. من #منظمة #الوحدة إلى #الاتحاد"
+            }
+        ]
+    },
+    {
+        "id": 7364,
+        "text": "عبد الرحمن الشاطر: صدق أو لا تصدق.. كل المترشحين للرئاسي ورئيس الحكومة وعدوا بتحقيق الاستقرار ومحاربة الفساد وتوحيد المؤسسات وإجراء انتخابات معالجة الاقتصاد.. في عشرة أشهر فقط.. رجال المعجزات يتقدمون الصفوف منهم من ساهم في الفساد وقتل الليبيين وتدمير المدن.. على مين يا طبرق!.",
+        "labels": [
+            {
+                "start": 19,
+                "end": 256,
+                "technique": "Smears",
+                "text_fragment": "صدق أو لا تصدق.. كل المترشحين للرئاسي ورئيس الحكومة وعدوا بتحقيق الاستقرار ومحاربة الفساد وتوحيد المؤسسات وإجراء انتخابات معالجة الاقتصاد.. في عشرة أشهر فقط.. رجال المعجزات يتقدمون الصفوف منهم من ساهم في الفساد وقتل الليبيين وتدمير المدن"
+            },
+            {
+                "start": 102,
+                "end": 108,
+                "technique": "Repetition",
+                "text_fragment": "الفساد"
+            },
+            {
+                "start": 178,
+                "end": 191,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "رجال المعجزات"
+            },
+            {
+                "start": 178,
+                "end": 191,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "رجال المعجزات"
+            },
+            {
+                "start": 223,
+                "end": 235,
+                "technique": "Loaded Language",
+                "text_fragment": "الفساد وقتل "
+            },
+            {
+                "start": 245,
+                "end": 256,
+                "technique": "Loaded Language",
+                "text_fragment": "تدمير المدن"
+            },
+            {
+                "start": 102,
+                "end": 108,
+                "technique": "Loaded Language",
+                "text_fragment": "الفساد"
+            },
+            {
+                "start": 19,
+                "end": 33,
+                "technique": "Thought-terminating cliché",
+                "text_fragment": "صدق أو لا تصدق"
+            },
+            {
+                "start": 19,
+                "end": 156,
+                "technique": "Doubt",
+                "text_fragment": "صدق أو لا تصدق.. كل المترشحين للرئاسي ورئيس الحكومة وعدوا بتحقيق الاستقرار ومحاربة الفساد وتوحيد المؤسسات وإجراء انتخابات معالجة الاقتصاد"
+            }
+        ]
+    },
+    {
+        "id": 7365,
+        "text": "تحذيرات من حرب جديدة في حال فشل الانتخابات القادمة",
+        "labels": [
+            {
+                "start": 0,
+                "end": 50,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "تحذيرات من حرب جديدة في حال فشل الانتخابات القادمة"
+            },
+            {
+                "start": 11,
+                "end": 14,
+                "technique": "Loaded Language",
+                "text_fragment": "حرب"
+            }
+        ]
+    },
+    {
+        "id": 7366,
+        "text": "الصحراء المغربية.. عمدة ليفيري الإيطالية يدعو الاتحاد الأوروبي إلى السير على خطى النموذج الأمريكي",
+        "labels": []
+    },
+    {
+        "id": 7367,
+        "text": "الباحث السياسي عز الدين عقيل: مجموعة فاغنر التي تقاتل مع قوات الكرامة قد يخططون لانقلاب على حفتر داخل الرجمة خاصة أن الوضع محتقن بسبب هزيمة عقيلة صالح. #ليبيا",
+        "labels": [
+            {
+                "start": 0,
+                "end": 150,
+                "technique": "Appeal to authority",
+                "text_fragment": "الباحث السياسي عز الدين عقيل: مجموعة فاغنر التي تقاتل مع قوات الكرامة قد يخططون لانقلاب على حفتر داخل الرجمة خاصة أن الوضع محتقن بسبب هزيمة عقيلة صالح"
+            },
+            {
+                "start": 123,
+                "end": 128,
+                "technique": "Loaded Language",
+                "text_fragment": "محتقن"
+            },
+            {
+                "start": 30,
+                "end": 108,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "مجموعة فاغنر التي تقاتل مع قوات الكرامة قد يخططون لانقلاب على حفتر داخل الرجمة"
+            }
+        ]
+    },
+    {
+        "id": 7368,
+        "text": "غوتيريش: المقاتلون الأجانب لا يزالون ينشطون في ليبيا #عين_ليبيا",
+        "labels": [
+            {
+                "start": 0,
+                "end": 52,
+                "technique": "Appeal to authority",
+                "text_fragment": "غوتيريش: المقاتلون الأجانب لا يزالون ينشطون في ليبيا"
+            },
+            {
+                "start": 9,
+                "end": 26,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "المقاتلون الأجانب"
+            }
+        ]
+    },
+    {
+        "id": 7369,
+        "text": "إيطاليا.. ارتفاع حصيلة ضحايا حادث تحطم قاطرة تلفريك إلى 14 قتيلا",
+        "labels": []
+    },
+    {
+        "id": 7370,
+        "text": "الحملة الإعلامية الإسبانية ضد المغرب .. الحديث عن ضعف التنمية في المملكة ينم عن تصورات قديمة لدى الجار الشمالي. فالمغرب حقق نسب نمو مطردة رغم الأزمة ",
+        "labels": [
+            {
+                "start": 113,
+                "end": 148,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "المغرب حقق نسب نمو مطردة رغم الأزمة"
+            },
+            {
+                "start": 0,
+                "end": 36,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "الحملة الإعلامية الإسبانية ضد المغرب"
+            }
+        ]
+    },
+    {
+        "id": 7371,
+        "text": "الناظور.. إحباط محاولة للتهريب الدولي للمخدرات وحجز خمسة أطنان و30 كلغ من مخدر الشيرا (المديرية العامة للأمن الوطني)",
+        "labels": [
+            {
+                "start": 23,
+                "end": 46,
+                "technique": "Loaded Language",
+                "text_fragment": "للتهريب الدولي للمخدرات"
+            }
+        ]
+    },
+    {
+        "id": 7372,
+        "text": "ملتقى_افريقيا_للاستثمار: دعوة الجزائر #لقيادة_الدول_الافريقية نحو تجسيد سوقهم #الموحدة#",
+        "labels": []
+    },
+    {
+        "id": 7373,
+        "text": "المغرب، بلد موثوق به يأخذ مكافحة الهجرة غير الشرعية \"بجدية بالغة\" (السفيرة الفرنسية)",
+        "labels": [
+            {
+                "start": 0,
+                "end": 66,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "المغرب، بلد موثوق به يأخذ مكافحة الهجرة غير الشرعية \"بجدية بالغة\" "
+            },
+            {
+                "start": 0,
+                "end": 84,
+                "technique": "Appeal to authority",
+                "text_fragment": "المغرب، بلد موثوق به يأخذ مكافحة الهجرة غير الشرعية \"بجدية بالغة\" (السفيرة الفرنسية)"
+            },
+            {
+                "start": 8,
+                "end": 17,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "بلد موثوق"
+            },
+            {
+                "start": 53,
+                "end": 64,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "بجدية بالغة"
+            }
+        ]
+    },
+    {
+        "id": 7374,
+        "text": "شاهد | في بيان لشباب ثورة الفقراء بمدينة #سبها يطالبون بتحسين أوضاعهم المعيشية ويهددون بإقفال النفط في الجنوب",
+        "labels": [
+            {
+                "start": 80,
+                "end": 109,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "يهددون بإقفال النفط في الجنوب"
+            },
+            {
+                "start": 16,
+                "end": 33,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "شباب ثورة الفقراء"
+            },
+            {
+                "start": 21,
+                "end": 33,
+                "technique": "Loaded Language",
+                "text_fragment": "ثورة الفقراء"
+            },
+            {
+                "start": 80,
+                "end": 86,
+                "technique": "Loaded Language",
+                "text_fragment": "يهددون"
+            }
+        ]
+    },
+    {
+        "id": 7375,
+        "text": "بوليساريو يروج زيفا لصور من ليبيا تدعي أنها لطائرة مغربية تم إسقاطها",
+        "labels": [
+            {
+                "start": 0,
+                "end": 68,
+                "technique": "Smears",
+                "text_fragment": "بوليساريو يروج زيفا لصور من ليبيا تدعي أنها لطائرة مغربية تم إسقاطها"
+            },
+            {
+                "start": 10,
+                "end": 19,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "يروج زيفا"
+            }
+        ]
+    },
+    {
+        "id": 7376,
+        "text": "رئيس بعثة الأمم المتحدة للدعم في #ليبيا يان كوبيش، يُشدد في الكلمة الافتتاحية لجلسة ملتقى الحوار السياسي، على ضرورة إجراء الانتخابات في موعدها المقرر في 24 ديسمبر القادم.",
+        "labels": []
+    },
+    {
+        "id": 7377,
+        "text": "بعد قرابة عقد من الزمان على أحداث #بنغازي، هل ستٌعيد إدارة بايدن فتح السفارة الأمريكية في #طرابلس؟ ",
+        "labels": []
+    },
+    {
+        "id": 7378,
+        "text": "الكتيبة 55 مُشاة التابعة لرئاسة الأركان العامة، تُلقي القبض على تشكيل عصابي داخل منطقة #الماية غرب #طرابلس يمتهن السطو المسلح والنصب والاحتيال على المواطنين.",
+        "labels": [
+            {
+                "start": 64,
+                "end": 75,
+                "technique": "Loaded Language",
+                "text_fragment": "تشكيل عصابي"
+            },
+            {
+                "start": 64,
+                "end": 75,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "تشكيل عصابي"
+            },
+            {
+                "start": 113,
+                "end": 142,
+                "technique": "Loaded Language",
+                "text_fragment": "السطو المسلح والنصب والاحتيال"
+            }
+        ]
+    },
+    {
+        "id": 7379,
+        "text": "النموذج التنموي الجديد: المحاور الاستراتيجية للتحول",
+        "labels": [
+            {
+                "start": 0,
+                "end": 51,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "النموذج التنموي الجديد: المحاور الاستراتيجية للتحول"
+            }
+        ]
+    },
+    {
+        "id": 7380,
+        "text": "القيادة العسكرية الأمريكية في إفريقيا #أفريكوم: لدينا صور جوية تظهر فاغنر ومعدات لها في الخطوط الأمامية في #سرت⁩ روسيا ومجموعة #فاغنر تواصلان المشاركة في العمليات البرية والجوية في #ليبيا تواصل #روسيا لعب دور غير مفيد في ليبيا من خلال تسليم الإمدادات والمعدات إلى مجموعة فاغنر",
+        "labels": [
+            {
+                "start": 188,
+                "end": 276,
+                "technique": "Smears",
+                "text_fragment": "تواصل #روسيا لعب دور غير مفيد في ليبيا من خلال تسليم الإمدادات والمعدات إلى مجموعة فاغنر"
+            },
+            {
+                "start": 195,
+                "end": 217,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "روسيا لعب دور غير مفيد"
+            }
+        ]
+    },
+    {
+        "id": 7381,
+        "text": "كارثة بيئية وصناعية بأستراليا.. ملايين الفئران تجتاح الحقول والمزارع وتغزو المنازل! #كارثة #أستراليا #فئران",
+        "labels": [
+            {
+                "start": 0,
+                "end": 5,
+                "technique": "Loaded Language",
+                "text_fragment": "كارثة"
+            },
+            {
+                "start": 0,
+                "end": 82,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "كارثة بيئية وصناعية بأستراليا.. ملايين الفئران تجتاح الحقول والمزارع وتغزو المنازل"
+            },
+            {
+                "start": 70,
+                "end": 82,
+                "technique": "Loaded Language",
+                "text_fragment": "تغزو المنازل"
+            },
+            {
+                "start": 70,
+                "end": 82,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "تغزو المنازل"
+            }
+        ]
+    },
+    {
+        "id": 7382,
+        "text": "بالتواطؤ مع شبكات إجرامية مغربية..تفكيك شبكة إجرامية مُكونة من ستة (06) أشخاص بحوزتهم مبالغ مالية ضخمة ، بقيمة إجمالية تقدر 04 ملايير و108,5 مليون سنتيم، منها مبلغ مالي مزور بقيمة 03 ملايير و93 مليون سنتيم حاولوا إدخالها وترويجها.",
+        "labels": [
+            {
+                "start": 18,
+                "end": 25,
+                "technique": "Loaded Language",
+                "text_fragment": "إجرامية"
+            },
+            {
+                "start": 40,
+                "end": 52,
+                "technique": "Repetition",
+                "text_fragment": "شبكة إجرامية"
+            },
+            {
+                "start": 45,
+                "end": 52,
+                "technique": "Loaded Language",
+                "text_fragment": "إجرامية"
+            },
+            {
+                "start": 86,
+                "end": 102,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "مبالغ مالية ضخمة"
+            },
+            {
+                "start": 12,
+                "end": 32,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "شبكات إجرامية مغربية"
+            },
+            {
+                "start": 1,
+                "end": 8,
+                "technique": "Loaded Language",
+                "text_fragment": "التواطؤ"
+            },
+            {
+                "start": 40,
+                "end": 52,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "شبكة إجرامية"
+            }
+        ]
+    },
+    {
+        "id": 7383,
+        "text": "بعيدًا عن المغالطات التي تروجها وسائل إعلام إسبانية حول عدد القاصرين المغاربة الذين تمكنوا من العبور إلى مدينة #سبتة_المحتلة، القاصرون المتبقون حاليا بالمدينة المحتلة يناهز حوالي 450 قاصرا مغربيا. السلطات المغربية تعمل على عودتهم، واستقبالهم في مركز متخصص قبل الالتحاق بأسرهم. ",
+        "labels": [
+            {
+                "start": 10,
+                "end": 19,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "المغالطات"
+            },
+            {
+                "start": 112,
+                "end": 124,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "سبتة_المحتلة"
+            },
+            {
+                "start": 151,
+                "end": 166,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "المدينة المحتلة"
+            },
+            {
+                "start": 197,
+                "end": 276,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "السلطات المغربية تعمل على عودتهم، واستقبالهم في مركز متخصص قبل الالتحاق بأسرهم."
+            },
+            {
+                "start": 0,
+                "end": 51,
+                "technique": "Smears",
+                "text_fragment": "بعيدًا عن المغالطات التي تروجها وسائل إعلام إسبانية"
+            },
+            {
+                "start": 10,
+                "end": 19,
+                "technique": "Loaded Language",
+                "text_fragment": "المغالطات"
+            },
+            {
+                "start": 151,
+                "end": 166,
+                "technique": "Loaded Language",
+                "text_fragment": "المدينة المحتلة"
+            },
+            {
+                "start": 112,
+                "end": 124,
+                "technique": "Loaded Language",
+                "text_fragment": "سبتة_المحتلة"
+            }
+        ]
+    },
+    {
+        "id": 7384,
+        "text": "«شمام» يُطالب شباب ونساء برقة أن يغيروا بأيديهم! #عين_ليبيا",
+        "labels": [
+            {
+                "start": 0,
+                "end": 47,
+                "technique": "Flag-waving",
+                "text_fragment": "«شمام» يُطالب شباب ونساء برقة أن يغيروا بأيديهم"
+            },
+            {
+                "start": 0,
+                "end": 59,
+                "technique": "Obfuscation, Intentional vagueness, Confusion",
+                "text_fragment": "«شمام» يُطالب شباب ونساء برقة أن يغيروا بأيديهم! #عين_ليبيا"
+            }
+        ]
+    },
+    {
+        "id": 7385,
+        "text": "الأمم المتحدة.. السيد هلال يندد ب\"الارتباط الإيديولوجي\" و\"العمى السياسي\" لجنوب إفريقيا حول الصحراء المغربية",
+        "labels": [
+            {
+                "start": 58,
+                "end": 71,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "العمى السياسي"
+            },
+            {
+                "start": 59,
+                "end": 71,
+                "technique": "Obfuscation, Intentional vagueness, Confusion",
+                "text_fragment": "لعمى السياسي"
+            },
+            {
+                "start": 57,
+                "end": 72,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "\"العمى السياسي\""
+            },
+            {
+                "start": 34,
+                "end": 54,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "الارتباط الإيديولوجي"
+            },
+            {
+                "start": 58,
+                "end": 107,
+                "technique": "Smears",
+                "text_fragment": "العمى السياسي\" لجنوب إفريقيا حول الصحراء المغربية"
+            }
+        ]
+    },
+    {
+        "id": 7386,
+        "text": "صور | مستعرضًا قوته في بنغازي قبل أيام من مرور ذكرى هزيمته في #طرابلس.. حفتر يدعو كلًا من رئيس حكومة الوحدة الوطنية عبدالحميد الدبيبة  ورئيس المجلس الرئاسي محمد المنفي. ورئيس البرلمان عقيلة صالح لحضور عرض عسكري لمليشياته بمناسبة ذكرى نكبة الكرامة.",
+        "labels": [
+            {
+                "start": 211,
+                "end": 220,
+                "technique": "Loaded Language",
+                "text_fragment": "لمليشياته"
+            },
+            {
+                "start": 211,
+                "end": 220,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "لمليشياته"
+            },
+            {
+                "start": 233,
+                "end": 247,
+                "technique": "Name calling/Labeling",
+                "text_fragment": " نكبة الكرامة."
+            }
+        ]
+    },
+    {
+        "id": 7387,
+        "text": "حمَّلت القبيلة قيادة قوات #حفتر مسؤولية الانفلات الأمني والاستهتار بالأرواح #عين_ليبيا",
+        "labels": [
+            {
+                "start": 0,
+                "end": 75,
+                "technique": "Causal Oversimplification",
+                "text_fragment": "حمَّلت القبيلة قيادة قوات #حفتر مسؤولية الانفلات الأمني والاستهتار بالأرواح"
+            },
+            {
+                "start": 39,
+                "end": 55,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": " الانفلات الأمني"
+            },
+            {
+                "start": 40,
+                "end": 55,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "الانفلات الأمني"
+            },
+            {
+                "start": 56,
+                "end": 75,
+                "technique": "Loaded Language",
+                "text_fragment": "والاستهتار بالأرواح"
+            }
+        ]
+    },
+    {
+        "id": 7388,
+        "text": "الاقتصاد الأخضر وتحدياته محور ندوة بالرباط",
+        "labels": [
+            {
+                "start": 0,
+                "end": 15,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "الاقتصاد الأخضر"
+            }
+        ]
+    },
+    {
+        "id": 7389,
+        "text": "شاهد | المتحدث باسم مليشيات حفتر أحمد المسماري يقول إن الاحتفال عمل مدني وليس عسكريًا وأنه لتغيير الأجواء والفرح وليس تهديدًا لأحد",
+        "labels": [
+            {
+                "start": 20,
+                "end": 27,
+                "technique": "Loaded Language",
+                "text_fragment": "مليشيات"
+            },
+            {
+                "start": 20,
+                "end": 32,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "مليشيات حفتر"
+            },
+            {
+                "start": 118,
+                "end": 125,
+                "technique": "Loaded Language",
+                "text_fragment": "تهديدًا"
+            },
+            {
+                "start": 7,
+                "end": 130,
+                "technique": "Appeal to authority",
+                "text_fragment": "المتحدث باسم مليشيات حفتر أحمد المسماري يقول إن الاحتفال عمل مدني وليس عسكريًا وأنه لتغيير الأجواء والفرح وليس تهديدًا لأحد"
+            }
+        ]
+    },
+    {
+        "id": 7390,
+        "text": "فيديو.. القيادي في قوات #حفتر محمود الورفلي يقتحم مقر شركة «ماس» وكيل شركة «تويوتا» في #بنغازي ويقوم بتحطيم المقر بدعوى الفساد المالي.",
+        "labels": [
+            {
+                "start": 44,
+                "end": 49,
+                "technique": "Loaded Language",
+                "text_fragment": "يقتحم"
+            },
+            {
+                "start": 120,
+                "end": 133,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "الفساد المالي"
+            },
+            {
+                "start": 8,
+                "end": 133,
+                "technique": "Smears",
+                "text_fragment": "القيادي في قوات #حفتر محمود الورفلي يقتحم مقر شركة «ماس» وكيل شركة «تويوتا» في #بنغازي ويقوم بتحطيم المقر بدعوى الفساد المالي"
+            },
+            {
+                "start": 102,
+                "end": 107,
+                "technique": "Loaded Language",
+                "text_fragment": "تحطيم"
+            }
+        ]
+    },
+    {
+        "id": 7391,
+        "text": "شاهد | مرتزق يوثق قدومه مع أرتال عسكرية قادمة إلى مدينة #سبها من #تشاد ويوجه رسالة إلى #التشاديين أنهم سيأتونهم بخيرات #ليبيا",
+        "labels": [
+            {
+                "start": 7,
+                "end": 12,
+                "technique": "Loaded Language",
+                "text_fragment": "مرتزق"
+            },
+            {
+                "start": 7,
+                "end": 12,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "مرتزق"
+            },
+            {
+                "start": 7,
+                "end": 61,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "مرتزق يوثق قدومه مع أرتال عسكرية قادمة إلى مدينة #سبها"
+            }
+        ]
+    },
+    {
+        "id": 7392,
+        "text": "مدينة #شحات الأثرية إحدى المدن الليبية الواقعة شرق #بنغازي والتي تتميز بامتزاج طبيعتها الريفية الخلابة مع الآثار التاريخية.",
+        "labels": [
+            {
+                "start": 65,
+                "end": 122,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "تتميز بامتزاج طبيعتها الريفية الخلابة مع الآثار التاريخية"
+            },
+            {
+                "start": 95,
+                "end": 102,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "الخلابة"
+            },
+            {
+                "start": 95,
+                "end": 102,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "الخلابة"
+            }
+        ]
+    },
+    {
+        "id": 7393,
+        "text": "#المجلس_الوطني_لحقوق_الانسان: بقاء الصحراء الغربية تحت وطأة الاستعمار ..نقطة سوداء في جبين افريقيا https://aps.dz/ar/algerie/107",
+        "labels": [
+            {
+                "start": 54,
+                "end": 69,
+                "technique": "Loaded Language",
+                "text_fragment": " وطأة الاستعمار"
+            },
+            {
+                "start": 1,
+                "end": 98,
+                "technique": "Smears",
+                "text_fragment": "المجلس_الوطني_لحقوق_الانسان: بقاء الصحراء الغربية تحت وطأة الاستعمار ..نقطة سوداء في جبين افريقيا"
+            },
+            {
+                "start": 72,
+                "end": 90,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "نقطة سوداء في جبين"
+            },
+            {
+                "start": 30,
+                "end": 82,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "بقاء الصحراء الغربية تحت وطأة الاستعمار ..نقطة سوداء"
+            }
+        ]
+    },
+    {
+        "id": 7394,
+        "text": "شاهد | بعد فشله عسكريا في السيطرة على العاصمة #طرابلس و #ليبيا... المتحدث باسم مليشيات حفتر أحمد المسماري يدعو الله أن يخرج القوات التركية ويطالب المجتمع الدولي بالضغط على تركيا لخروج قواتها من ليبيا ويقر بالفوضى الأمنية في مدينة #بنغازي",
+        "labels": [
+            {
+                "start": 79,
+                "end": 86,
+                "technique": "Loaded Language",
+                "text_fragment": "مليشيات"
+            },
+            {
+                "start": 79,
+                "end": 91,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "مليشيات حفتر"
+            },
+            {
+                "start": 205,
+                "end": 220,
+                "technique": "Loaded Language",
+                "text_fragment": "بالفوضى الأمنية"
+            },
+            {
+                "start": 11,
+                "end": 22,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "فشله عسكريا"
+            },
+            {
+                "start": 205,
+                "end": 220,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "بالفوضى الأمنية"
+            }
+        ]
+    },
+    {
+        "id": 7395,
+        "text": "شاهد | بالتزامن مع ذكرى نكبة الكرامة منذ 7 سنوات التي دمرت وقتلت وهجرت ومزقت النسيج الاجتماعي بين الليبيين .. تفتتح المليشيات اليوم في #بنغازي مطبعة عسكرية لطباعة صور حفتر وتعليقها في الشوارع",
+        "labels": [
+            {
+                "start": 72,
+                "end": 93,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "مزقت النسيج الاجتماعي"
+            },
+            {
+                "start": 116,
+                "end": 125,
+                "technique": "Loaded Language",
+                "text_fragment": "المليشيات"
+            },
+            {
+                "start": 54,
+                "end": 106,
+                "technique": "Loaded Language",
+                "text_fragment": "دمرت وقتلت وهجرت ومزقت النسيج الاجتماعي بين الليبيين"
+            },
+            {
+                "start": 24,
+                "end": 36,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "نكبة الكرامة"
+            }
+        ]
+    },
+    {
+        "id": 7396,
+        "text": "شاهد | فيديو جديد لأرتال مسلحة تابعة لمليشيات حفتر ببنغازي يُظهر استحواذهم على منصات صواريخ \"سكود\" و \"لونا-M\" القادرة على حمل رؤوس حربية شديدة الانفجار أو نووية وكيميائية.",
+        "labels": [
+            {
+                "start": 36,
+                "end": 50,
+                "technique": "Name calling/Labeling",
+                "text_fragment": " لمليشيات حفتر"
+            },
+            {
+                "start": 37,
+                "end": 45,
+                "technique": "Loaded Language",
+                "text_fragment": "لمليشيات"
+            },
+            {
+                "start": 19,
+                "end": 170,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "أرتال مسلحة تابعة لمليشيات حفتر ببنغازي يُظهر استحواذهم على منصات صواريخ \"سكود\" و \"لونا-M\" القادرة على حمل رؤوس حربية شديدة الانفجار أو نووية وكيميائية"
+            }
+        ]
+    },
+    {
+        "id": 7397,
+        "text": "شاهد | الناشط القبلي أسامة بوحلاق يهاجم تنظيم المداخلة للمرة الثانية خلال أسبوع، ويصف منتسبيه بالمطبلين للحكام والمدعيين الإلتزام، وأنهم لا يمثلون الدين في شيء.",
+        "labels": [
+            {
+                "start": 34,
+                "end": 39,
+                "technique": "Loaded Language",
+                "text_fragment": "يهاجم"
+            },
+            {
+                "start": 81,
+                "end": 160,
+                "technique": "Smears",
+                "text_fragment": "ويصف منتسبيه بالمطبلين للحكام والمدعيين الإلتزام، وأنهم لا يمثلون الدين في شيء."
+            },
+            {
+                "start": 40,
+                "end": 54,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "تنظيم المداخلة"
+            },
+            {
+                "start": 95,
+                "end": 103,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "المطبلين"
+            }
+        ]
+    },
+    {
+        "id": 7398,
+        "text": "ديوان المحاسبة الليبي يُوقف رئيس المؤسسة الليبية للإعلام محمد بعيو عن العمل احتياطياً، وذلك لعرقلته عمل اللجنة المُكلفة بفحص حسابات المؤسسة",
+        "labels": [
+            {
+                "start": 21,
+                "end": 139,
+                "technique": "Smears",
+                "text_fragment": " يُوقف رئيس المؤسسة الليبية للإعلام محمد بعيو عن العمل احتياطياً، وذلك لعرقلته عمل اللجنة المُكلفة بفحص حسابات المؤسسة"
+            },
+            {
+                "start": 92,
+                "end": 99,
+                "technique": "Loaded Language",
+                "text_fragment": "لعرقلته"
+            }
+        ]
+    },
+    {
+        "id": 7399,
+        "text": "الحوار الاجتماعي.. الحكومة أوفت بكل التزاماتها رغم تداعيات الأزمة الصحية",
+        "labels": [
+            {
+                "start": 19,
+                "end": 72,
+                "technique": "Obfuscation, Intentional vagueness, Confusion",
+                "text_fragment": "الحكومة أوفت بكل التزاماتها رغم تداعيات الأزمة الصحية"
+            },
+            {
+                "start": 27,
+                "end": 46,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "أوفت بكل التزاماتها"
+            },
+            {
+                "start": 19,
+                "end": 72,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "الحكومة أوفت بكل التزاماتها رغم تداعيات الأزمة الصحية"
+            }
+        ]
+    },
+    {
+        "id": 7400,
+        "text": "أربعة قتلى خلال تبادل لإطلاق النار بين الشرطة وإرهابيين وسط - غرب #تونس (مصدر أمني)",
+        "labels": [
+            {
+                "start": 6,
+                "end": 10,
+                "technique": "Loaded Language",
+                "text_fragment": "قتلى"
+            },
+            {
+                "start": 47,
+                "end": 55,
+                "technique": "Loaded Language",
+                "text_fragment": "إرهابيين"
+            },
+            {
+                "start": 47,
+                "end": 55,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "إرهابيين"
+            }
+        ]
+    },
+    {
+        "id": 7401,
+        "text": "مصادر إعلامية: مجموعة من المسلحين الملثمين يقتحمون منزل تاجر قماش من عائلة \"قرقوم\" في #بنغازي ليلة البارحة ويقومون بخطفه وسرقة مبلغ مالي ومجوهرات ثمنية وذهب من المنزل ويُخلون سبيله فجر اليوم الأربعاء.",
+        "labels": [
+            {
+                "start": 115,
+                "end": 120,
+                "technique": "Loaded Language",
+                "text_fragment": "بخطفه"
+            },
+            {
+                "start": 25,
+                "end": 42,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "المسلحين الملثمين"
+            },
+            {
+                "start": 25,
+                "end": 50,
+                "technique": "Loaded Language",
+                "text_fragment": "المسلحين الملثمين يقتحمون"
+            }
+        ]
+    }
+]
