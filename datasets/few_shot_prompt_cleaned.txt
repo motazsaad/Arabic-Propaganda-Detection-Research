@@ -1,0 +1,46 @@
+
+id: 1355223276621070337
+Tweet: عين_اليمن هذه دوله هادي باختصار فساد وسرقه ونهب ومحسوبيه لاتفرق عن مليشيا الحوثي بشي
+Labeled techniques: Loaded Language, Name calling/Labeling, Smears
+id: 1390781467031228417
+Tweet: طفل فلسطيني يبكي لأن جنود الاحتلال الإسرائيلي منعوه من الصلاة في الأقصى
+Labeled techniques: Name calling/Labeling, Loaded Language, Smears
+id: 1396144839595528199
+Tweet: السلطات الصحية الأمريكية توصي المواطنين بالتوقف عن تقبيل الدجاج.. لماذا
+Labeled techniques: Smears, Doubt
+id: 1399878431119003653
+Tweet: وزير خارجية النرويج السابق للجزيرة اتهامات إسرائيل للمحكمة الجنائية الدولية بمعاداة السامية مقلقة بشكل بالغ
+Labeled techniques: Loaded Language, Name calling/Labeling, Smears
+id: 1392790941770133507
+Tweet: الناطق باسم كتائب_القسام للصهاينة احشدوا ما شئتم فقد أعددنا لكم أصنافاً من الموت ستجعلكم تلعنون أنفسكم 
+Labeled techniques: Appeal to fear/prejudice, Loaded Language, Exaggeration/Minimisation, Name calling/Labeling
+id: 1389489981031206912
+Tweet: بين_سام  وعمار حروب ونزاعات تنشأ حتى اليوم بسبب انكار تركيا للإبادة الأرمنية شاهد الحلقة كاملة عبر الرابط
+Labeled techniques: Loaded Language, Causal Oversimplification
+id: 1393211280975142912
+Tweet: استشاري أمراض القلب يحذر هذه الأطعمة تزيد من حدوث جلطة القلب ابتعدوا عنها
+Labeled techniques: Appeal to fear/prejudice, Thought-terminating cliché, Appeal to authority
+id: 1399253718202265602
+Tweet: صور مكبل القدمين آثار اعتداء الاحتلال على الطفل محمد يحيى في مدينة الطيبة المحتلة فلسطين
+Labeled techniques: Loaded Language, Name calling/Labeling
+id: 1395982884532523010
+Tweet: مشعل: القضية الفلسطينية واحدة لا تتجزأ المسجد_الأقصى غزة تنتصر
+Labeled techniques: Appeal to authority, Repetition, Slogans, Flag-waving
+id: 1358747565106360320
+Tweet: ولد_السالك مغالطات وزير خارجية المغرب ومواصلة بلده للاحتلال ستؤدي بالمملكة للهاوية 
+Labeled techniques: Name calling/Labeling, Appeal to fear/prejudice, Exaggeration/Minimisation, Loaded Language
+id: 1371106916487823368
+Tweet: سمو الشيخ ناصر بن حمد: عزيمة رجال الحرس الملكي وإصرارهم سيوصلهم إلى قمة إفرست 
+Labeled techniques: Exaggeration/Minimisation
+id: 1400323810042187779
+Tweet: ماذا يحدث في إيران حرائق وانفجارات وقتلى في ظروف غامضة
+Labeled techniques: Doubt, Loaded Language, Name calling/Labeling
+id: 1394931982958661634
+Tweet: حوار طلال أبو غزالة  لا يوجد أي حل آخر في فلسطين إلا بنهاية الاحتلال 
+Labeled techniques: Black-and-white Fallacy/Dictatorship, Name calling/Labeling, Smears
+id: 7094
+Tweet: شركة \"أريس\" التركية المتخصصة في صناعة الزوارق البحرية تحقق نجاحاً كبيراً باجتياز زورقها محلي الصنع، المخصص لقوات خفر السواحل، الاختبارات الأولى بنجاح، استعداداً لحماية مياه \"الوطن الأزرق\".
+Labeled techniques: Exaggeration/Minimisation, Slogans, Glittering generalities (Virtue), Name calling/Labeling
+id: 1027472178428760064
+Tweet: السياحة في تونس انتعاشة ظرفيّة تحجب أزمة هيكليّة
+Labeled techniques: Loaded Language, Obfuscation, Intentional vagueness, Confusion
