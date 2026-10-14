@@ -1,0 +1,38 @@
+def build_structured_json_prompt(original_text, technique, num_samples=3):
+
+    return f"""
+
+Create {num_samples} new examples using the following propaganda technique: "{technique}", 
+in the same style and manner as shown below:
+
+
+Original text:
+"{original_text}"
+
+
+I want you to produce only {num_samples} different examples, 
+with the same style and propaganda meaning, 
+and each example should be in the following JSON format:
+
+
+{{
+  "id": "<unique_id>",
+  "text": "<new_text>",
+  "labels": [
+    {{
+      "technique": "{technique}",
+      "start": 0,
+      "end": <text_length>
+    }}
+  ]
+}}
+
+
+Do not add any explanation or comments.  
+Use the Arabic language only.  
+Each example should be an independent JSON item within a list.  
+Do not add punctuation marks, numbering, or separators between items.
+
+
+Now start by giving me the examples only, and nothing else.
+"""
